@@ -1,0 +1,1 @@
+*.exe\n*.o\n*.layout\n*.depend\n*.cbp\nbin/\nobj/\nAppData/\n*.log\n*.tmp
