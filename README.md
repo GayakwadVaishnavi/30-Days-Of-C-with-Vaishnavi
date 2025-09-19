@@ -18,6 +18,4 @@ This repository contains all the C programs I practice daily as part of my learn
 - Day 3: Functions, scope of variables  
 - (and so on... I will update daily)
 
----
 
-## 📂 Repository Structure
